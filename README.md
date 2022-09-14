@@ -1,3 +1,3 @@
 # DIO - Reserva em Hotel 
 
-Este programa é pré-requisito do 
+Este programa é pré-requisito do Curso Dotnet.
